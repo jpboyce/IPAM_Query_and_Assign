@@ -6,9 +6,7 @@ Detail
 This script will perform the following actions:
 
 1. Create a new Powershell session to a defined Microsoft Windows 2012 IPAM host (via New-PSSession)
-
 2. Query IPv4 address ranges belonging to a specified "owner" for the next available address
-
 3. Create an assignment for this address
 
 Dependencies
