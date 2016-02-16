@@ -10,6 +10,7 @@ This script will perform the following actions:
 3. Create an assignment for this address
 
 Dependencies
+
 1. The IPAM account needs to be a member of the "IPAM ASM Administrators" group on the IPAM server.
 2. The IPAM account needs to be a member of the "WinRMRemoteWMIUsers__" group on the IPAM server.
 3. Powershell remoting needs to be configured appropriately on the IPAM server
