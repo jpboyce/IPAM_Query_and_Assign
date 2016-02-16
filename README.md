@@ -16,6 +16,7 @@ Dependencies
 3. Powershell remoting needs to be configured appropriately on the IPAM server
 
 Variables
+
 $Server - IPAM server hostname or IP
 $Password - IPAM account password
 $username - IPAM accout name
