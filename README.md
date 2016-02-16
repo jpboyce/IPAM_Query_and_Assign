@@ -17,8 +17,8 @@ This script will perform the following actions:
 
 ##Variables
 
-$Server - IPAM server hostname or IP
-$Password - IPAM account password
+- $Server - IPAM server hostname or IP
+- $Password - IPAM account password
 $username - IPAM accout name
 $convertedpassword - Secure string conversion of the $password variable
 $credential - Powershell credential object for the remote session
